@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 6E0E-3707
+
+ Directory of C:\Users\u389072\OneDrive - Danfoss\Attachments\Desktop\MyProject
+
+08/02/2023  02:59 PM    <DIR>          .
+08/02/2023  02:55 PM    <DIR>          ..
+08/02/2023  02:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  140,574,859,264 bytes free
